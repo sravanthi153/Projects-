@@ -1,3 +1,5 @@
+#Dictionary python.
+
 # import required libirary
 from tkinter import *
 from pip import PyDictionary
