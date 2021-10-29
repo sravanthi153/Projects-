@@ -1,4 +1,4 @@
-#selfie
+#autoselfie
 
 import cv2
 import datetime
